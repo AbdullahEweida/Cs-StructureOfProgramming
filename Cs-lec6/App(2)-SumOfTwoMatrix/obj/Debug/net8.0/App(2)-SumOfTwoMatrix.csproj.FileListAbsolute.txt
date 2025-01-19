@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/bin/Debug/net8.0/App(2)-SumOfTwoMatrix
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/bin/Debug/net8.0/App(2)-SumOfTwoMatrix.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/bin/Debug/net8.0/App(2)-SumOfTwoMatrix.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/bin/Debug/net8.0/App(2)-SumOfTwoMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/bin/Debug/net8.0/App(2)-SumOfTwoMatrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/refint/App(2)-SumOfTwoMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/App(2)-SumOfTwoMatrix.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(2)-SumOfTwoMatrix/obj/Debug/net8.0/ref/App(2)-SumOfTwoMatrix.dll

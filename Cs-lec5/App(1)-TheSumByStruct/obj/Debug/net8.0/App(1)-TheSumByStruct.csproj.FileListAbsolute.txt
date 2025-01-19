@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/bin/Debug/net8.0/App(1)-TheSumByStruct
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/bin/Debug/net8.0/App(1)-TheSumByStruct.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/bin/Debug/net8.0/App(1)-TheSumByStruct.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/bin/Debug/net8.0/App(1)-TheSumByStruct.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/bin/Debug/net8.0/App(1)-TheSumByStruct.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/refint/App(1)-TheSumByStruct.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/App(1)-TheSumByStruct.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(1)-TheSumByStruct/obj/Debug/net8.0/ref/App(1)-TheSumByStruct.dll

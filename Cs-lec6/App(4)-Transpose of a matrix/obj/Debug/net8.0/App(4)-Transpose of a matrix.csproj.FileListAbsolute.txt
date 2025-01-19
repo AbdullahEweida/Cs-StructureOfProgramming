@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/bin/Debug/net8.0/App(4)-Transpose of a matrix
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/bin/Debug/net8.0/App(4)-Transpose of a matrix.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/bin/Debug/net8.0/App(4)-Transpose of a matrix.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/bin/Debug/net8.0/App(4)-Transpose of a matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/bin/Debug/net8.0/App(4)-Transpose of a matrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/refint/App(4)-Transpose of a matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/App(4)-Transpose of a matrix.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(4)-Transpose of a matrix/obj/Debug/net8.0/ref/App(4)-Transpose of a matrix.dll

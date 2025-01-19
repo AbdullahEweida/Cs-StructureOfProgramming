@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/bin/Debug/net8.0/App(2)
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/bin/Debug/net8.0/App(2).deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/bin/Debug/net8.0/App(2).runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/bin/Debug/net8.0/App(2).dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/bin/Debug/net8.0/App(2).pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/refint/App(2).dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/App(2).genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(2)/obj/Debug/net8.0/ref/App(2).dll

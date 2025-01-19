@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/bin/Debug/net8.0/App(4)-file not found
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/bin/Debug/net8.0/App(4)-file not found.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/bin/Debug/net8.0/App(4)-file not found.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/bin/Debug/net8.0/App(4)-file not found.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/bin/Debug/net8.0/App(4)-file not found.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/refint/App(4)-file not found.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/App(4)-file not found.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(4)-file not found/obj/Debug/net8.0/ref/App(4)-file not found.dll

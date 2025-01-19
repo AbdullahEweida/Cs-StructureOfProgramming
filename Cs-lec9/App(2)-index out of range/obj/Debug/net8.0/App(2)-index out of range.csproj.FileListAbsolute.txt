@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/bin/Debug/net8.0/App(2)-index out of range
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/bin/Debug/net8.0/App(2)-index out of range.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/bin/Debug/net8.0/App(2)-index out of range.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/bin/Debug/net8.0/App(2)-index out of range.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/bin/Debug/net8.0/App(2)-index out of range.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/refint/App(2)-index out of range.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/App(2)-index out of range.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(2)-index out of range/obj/Debug/net8.0/ref/App(2)-index out of range.dll

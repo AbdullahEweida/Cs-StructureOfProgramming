@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/bin/Debug/net8.0/App(2)-Write Stream
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/bin/Debug/net8.0/App(2)-Write Stream.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/bin/Debug/net8.0/App(2)-Write Stream.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/bin/Debug/net8.0/App(2)-Write Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/bin/Debug/net8.0/App(2)-Write Stream.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/refint/App(2)-Write Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/App(2)-Write Stream.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/obj/Debug/net8.0/ref/App(2)-Write Stream.dll

@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/bin/Debug/net8.0/Assignment(1)-PermutationsAndCombinations
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/bin/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/bin/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/bin/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/bin/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/refint/Assignment(1)-PermutationsAndCombinations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/Assignment(1)-PermutationsAndCombinations.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/Assignment(1)-PermutationsAndCombinations/obj/Debug/net8.0/ref/Assignment(1)-PermutationsAndCombinations.dll

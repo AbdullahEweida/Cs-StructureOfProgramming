@@ -1,0 +1,30 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/bin/Debug/net8.0/App(1)-Calculator
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/bin/Debug/net8.0/App(1)-Calculator.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/bin/Debug/net8.0/App(1)-Calculator.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/bin/Debug/net8.0/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/bin/Debug/net8.0/App(1)-Calculator.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/refint/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/App(1)-Calculator.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Calculator/obj/Debug/net8.0/ref/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/bin/Debug/net8.0/App(1)-Calculator
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/bin/Debug/net8.0/App(1)-Calculator.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/bin/Debug/net8.0/App(1)-Calculator.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/bin/Debug/net8.0/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/bin/Debug/net8.0/App(1)-Calculator.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/refint/App(1)-Calculator.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/App(1)-Calculator.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(1)-Divide by zero/obj/Debug/net8.0/ref/App(1)-Calculator.dll

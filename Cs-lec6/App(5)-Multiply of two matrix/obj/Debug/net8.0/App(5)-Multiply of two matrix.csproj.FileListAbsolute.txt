@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/bin/Debug/net8.0/App(5)-Multiply of two matrix
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/bin/Debug/net8.0/App(5)-Multiply of two matrix.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/bin/Debug/net8.0/App(5)-Multiply of two matrix.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/bin/Debug/net8.0/App(5)-Multiply of two matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/bin/Debug/net8.0/App(5)-Multiply of two matrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/refint/App(5)-Multiply of two matrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/App(5)-Multiply of two matrix.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(5)-Multiply of two matrix/obj/Debug/net8.0/ref/App(5)-Multiply of two matrix.dll

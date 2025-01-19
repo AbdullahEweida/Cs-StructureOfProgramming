@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/bin/Debug/net8.0/App(3)_Factorial
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/bin/Debug/net8.0/App(3)_Factorial.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/bin/Debug/net8.0/App(3)_Factorial.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/bin/Debug/net8.0/App(3)_Factorial.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/bin/Debug/net8.0/App(3)_Factorial.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/refint/App(3)_Factorial.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/App(3)_Factorial.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec4/App(3)_Factorial/obj/Debug/net8.0/ref/App(3)_Factorial.dll

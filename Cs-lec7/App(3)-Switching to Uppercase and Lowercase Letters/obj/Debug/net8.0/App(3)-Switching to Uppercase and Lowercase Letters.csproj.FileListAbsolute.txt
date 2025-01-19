@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/bin/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/bin/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/bin/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/bin/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/bin/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/refint/App(3)-Switching to Uppercase and Lowercase Letters.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/App(3)-Switching to Uppercase and Lowercase Letters.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/Debug/net8.0/ref/App(3)-Switching to Uppercase and Lowercase Letters.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App(4)-Searching for a String within Another String/1.0.0": {
+        "runtime": {
+          "App(4)-Searching for a String within Another String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App(4)-Searching for a String within Another String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

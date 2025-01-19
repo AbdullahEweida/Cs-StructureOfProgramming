@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/bin/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/bin/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/bin/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/bin/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/bin/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/refint/Assignment(1)-DeclareStudentDataInCourse.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/Assignment(1)-DeclareStudentDataInCourse.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/Assignment(1)-DeclareStudentDataInCourse/obj/Debug/net8.0/ref/Assignment(1)-DeclareStudentDataInCourse.dll

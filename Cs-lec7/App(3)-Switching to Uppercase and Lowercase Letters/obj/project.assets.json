@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/abe/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/App(3)-Switching to Uppercase and Lowercase Letters.csproj",
+      "projectName": "App(3)-Switching to Uppercase and Lowercase Letters",
+      "projectPath": "/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/App(3)-Switching to Uppercase and Lowercase Letters.csproj",
+      "packagesPath": "/home/abe/.nuget/packages/",
+      "outputPath": "/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(3)-Switching to Uppercase and Lowercase Letters/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/abe/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

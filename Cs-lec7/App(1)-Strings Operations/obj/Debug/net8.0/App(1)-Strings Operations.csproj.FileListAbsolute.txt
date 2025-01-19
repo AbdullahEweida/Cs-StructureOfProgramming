@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/bin/Debug/net8.0/App(1)-Strings Operations
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/bin/Debug/net8.0/App(1)-Strings Operations.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/bin/Debug/net8.0/App(1)-Strings Operations.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/bin/Debug/net8.0/App(1)-Strings Operations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/bin/Debug/net8.0/App(1)-Strings Operations.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/refint/App(1)-Strings Operations.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/App(1)-Strings Operations.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(1)-Strings Operations/obj/Debug/net8.0/ref/App(1)-Strings Operations.dll

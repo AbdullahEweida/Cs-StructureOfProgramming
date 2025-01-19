@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/bin/Debug/net8.0/App(1)-TraversalOfAMatrix
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/bin/Debug/net8.0/App(1)-TraversalOfAMatrix.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/bin/Debug/net8.0/App(1)-TraversalOfAMatrix.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/bin/Debug/net8.0/App(1)-TraversalOfAMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/bin/Debug/net8.0/App(1)-TraversalOfAMatrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/refint/App(1)-TraversalOfAMatrix.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/App(1)-TraversalOfAMatrix.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec6/App(1)-TraversalOfAMatrix/obj/Debug/net8.0/ref/App(1)-TraversalOfAMatrix.dll

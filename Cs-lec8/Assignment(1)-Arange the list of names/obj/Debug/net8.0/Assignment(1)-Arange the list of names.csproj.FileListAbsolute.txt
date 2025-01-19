@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/bin/Debug/net8.0/Assignment(1)-Arange the list of names
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/bin/Debug/net8.0/Assignment(1)-Arange the list of names.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/bin/Debug/net8.0/Assignment(1)-Arange the list of names.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/bin/Debug/net8.0/Assignment(1)-Arange the list of names.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/bin/Debug/net8.0/Assignment(1)-Arange the list of names.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/refint/Assignment(1)-Arange the list of names.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/Assignment(1)-Arange the list of names.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(1)-Arange the list of names/obj/Debug/net8.0/ref/Assignment(1)-Arange the list of names.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App(3)-Searching in a Matrix/1.0.0": {
+        "runtime": {
+          "App(3)-Searching in a Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App(3)-Searching in a Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

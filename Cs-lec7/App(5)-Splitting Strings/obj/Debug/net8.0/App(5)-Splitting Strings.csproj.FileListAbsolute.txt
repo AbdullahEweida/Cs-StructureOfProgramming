@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/bin/Debug/net8.0/App(5)-Splitting Strings
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/bin/Debug/net8.0/App(5)-Splitting Strings.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/bin/Debug/net8.0/App(5)-Splitting Strings.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/bin/Debug/net8.0/App(5)-Splitting Strings.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/bin/Debug/net8.0/App(5)-Splitting Strings.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/refint/App(5)-Splitting Strings.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/App(5)-Splitting Strings.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec7/App(5)-Splitting Strings/obj/Debug/net8.0/ref/App(5)-Splitting Strings.dll

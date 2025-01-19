@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/bin/Debug/net8.0/App(2)-DeclareTheBookStructure
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/bin/Debug/net8.0/App(2)-DeclareTheBookStructure.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/bin/Debug/net8.0/App(2)-DeclareTheBookStructure.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/bin/Debug/net8.0/App(2)-DeclareTheBookStructure.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/bin/Debug/net8.0/App(2)-DeclareTheBookStructure.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/refint/App(2)-DeclareTheBookStructure.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/App(2)-DeclareTheBookStructure.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec5/App(2)-DeclareTheBookStructure/obj/Debug/net8.0/ref/App(2)-DeclareTheBookStructure.dll

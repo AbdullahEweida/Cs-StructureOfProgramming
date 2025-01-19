@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/bin/Debug/net8.0/App(1)-Read Stream
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/bin/Debug/net8.0/App(1)-Read Stream.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/bin/Debug/net8.0/App(1)-Read Stream.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/bin/Debug/net8.0/App(1)-Read Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/bin/Debug/net8.0/App(1)-Read Stream.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/refint/App(1)-Read Stream.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/App(1)-Read Stream.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/obj/Debug/net8.0/ref/App(1)-Read Stream.dll

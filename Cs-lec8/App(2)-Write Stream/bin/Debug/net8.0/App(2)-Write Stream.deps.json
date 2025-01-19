@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App(2)-Write Stream/1.0.0": {
+        "runtime": {
+          "App(2)-Write Stream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App(2)-Write Stream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

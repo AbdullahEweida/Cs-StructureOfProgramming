@@ -1,0 +1,15 @@
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/bin/Debug/net8.0/App(3)-Stack over flow
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/bin/Debug/net8.0/App(3)-Stack over flow.deps.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/bin/Debug/net8.0/App(3)-Stack over flow.runtimeconfig.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/bin/Debug/net8.0/App(3)-Stack over flow.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/bin/Debug/net8.0/App(3)-Stack over flow.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.AssemblyInfoInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.AssemblyInfo.cs
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.csproj.CoreCompileInputs.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.sourcelink.json
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/refint/App(3)-Stack over flow.dll
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.pdb
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/App(3)-Stack over flow.genruntimeconfig.cache
+/mnt/data2/Cs-StructureOfProgramming/Cs-lec9/App(3)-Stack over flow/obj/Debug/net8.0/ref/App(3)-Stack over flow.dll
