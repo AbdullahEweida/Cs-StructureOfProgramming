@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment(1)-The three method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f768a5dbf6ded7bfde2051be3db5d7daddfcda9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40527540f345c8cd203be9012371147e889120f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment(1)-The three method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment(1)-The three method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

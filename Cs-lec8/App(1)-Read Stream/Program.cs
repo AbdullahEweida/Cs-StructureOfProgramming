@@ -7,7 +7,7 @@ namespace App_1__Read_Stream
     {
         static void Main(string[] args)
         {
-            string fileName = "/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(1)-Read Stream/the text file.txt";//** the path of the file.
+            string fileName = @"the text file.txt";//** this Relative path of the file.
             StreamReader reader = new StreamReader (fileName);//** to read the file and to store it in a variable.
             using (reader)//** to close the file after reading it. 
             {

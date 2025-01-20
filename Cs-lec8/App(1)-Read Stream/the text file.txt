@@ -1,4 +1,3 @@
-skndfgklansgkln
-sdlgmalksngk;ngs
-sdamgklankgjnsdgkglsd
-dkasljngklsngkjsdn
+This file for testing
+A full path :  is the complete path starting from the root of the file system. It specifies the exact location of a file or folder, beginning from the drive letter (on Windows) or the root directory (on Linux/Mac).
+A relative path :  specifies the location of a file or folder relative to the current working directory. It does not start from the root of the file system.

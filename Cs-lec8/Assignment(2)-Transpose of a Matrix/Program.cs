@@ -7,9 +7,9 @@ namespace Assignment_2__Transpose_of_a_Matrix
     {
         static void Main(string[] args)
         {
-            string fileName = "/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(2)-Transpose of a Matrix/Original Matrix.txt";//** the path of the file.
+            string fileName = @"Original Matrix.txt";
             StreamReader reader = new StreamReader (fileName);//** to read the file and to store it in a variable.
-            string [] lines = File.ReadAllLines("/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(2)-Transpose of a Matrix/Original Matrix.txt");//** to read all the lines in the file and store it in an array.
+            string [] lines = File.ReadAllLines(fileName);//** to read all the lines in the file and store it in an array.
             int rows = lines.Length;//** to get the number of rows in the file.
             int columns = (lines[0].Split([' ', '\t'])).Length;//** to get the number of columns in the file.
             int[,] matrix = new int[rows, columns]; //** to create a 2D array to store the matrix.
@@ -24,7 +24,7 @@ namespace Assignment_2__Transpose_of_a_Matrix
                 }
             }
             reader.Close();//** to close the file after reading it.
-            StreamWriter writer = new StreamWriter("/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/Assignment(2)-Transpose of a Matrix/Transpose of a Matrix.txt");//** to write the file and extract it in a variable.
+            StreamWriter writer = new StreamWriter(@"Transpose of a Matrix.txt");//** to write the file and extract it in a variable.
             for (int i = 0; i < columns; i++)//** to read column by column.
             {
                 for (int j = 0; j < rows; j++)//** to read line by line.

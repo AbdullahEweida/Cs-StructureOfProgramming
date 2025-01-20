@@ -7,7 +7,7 @@ namespace App_2__Write_Stream
     {
         static void Main(string[] args)
         {
-            string fileName = "/mnt/data2/Cs-StructureOfProgramming/Cs-lec8/App(2)-Write Stream/the file text .txt";//** the path of the file.
+            string fileName = @"the file text .txt";
             StreamWriter writer = new StreamWriter (fileName);//** to write the file and extract it in a variable.
             using (writer)//** to close the file after writing it. 
             {
